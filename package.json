@@ -1,0 +1,13 @@
+{
+  "name": "example-firebase-authentication",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "firebase": "^4.6.0",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.3"
+  }
+}
